@@ -6,9 +6,12 @@
 //  Copyright (c) 2014 Ryan Maxwell. All rights reserved.
 //
 
-#import <UIAlertView+Blocks/UIAlertView+Blocks.h>
-#import <UIActionSheet+Blocks/UIActionSheet+Blocks.h>
-#import <UIAlertController+Blocks/UIAlertController+Blocks.h>
+// #import <UIAlertView+Blocks/UIAlertView+Blocks.h>
+// #import <UIActionSheet+Blocks/UIActionSheet+Blocks.h>
+// #import <UIAlertController+Blocks/UIAlertController+Blocks.h>
+@import UIAlertView_Blocks.UIAlertView_Blocks;
+@import UIActionSheet_Blocks.UIActionSheet_Blocks;
+@import UIAlertController_Blocks.UIAlertController_Blocks;
 
 #import "RMUniversalAlert.h"
 
